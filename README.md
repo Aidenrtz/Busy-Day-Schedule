@@ -12,7 +12,7 @@
             background-color: #f4f4f9;
         }
 
-  /* Styling for table headers */
+/* Styling for table headers */
         th {
             background-color: #4CAF50;
             color: white;
@@ -20,14 +20,14 @@
             text-align: left;
         }
 
-  /* Styling for table cells */
+/* Styling for table cells */
         td {
             padding: 10px;
             text-align: left;
             border: 1px solid #ddd;
         }
 
-  /* Styling for rows with events */
+ /* Styling for rows with events */
         tr:nth-child(even) {
             background-color: #f2f2f2;
         }
@@ -46,9 +46,9 @@
 </head>
 <body>
 
-<h1>Your Busy Day Schedule</h1>
+ <h1>Aiden's Busy Day Schedule</h1>
 
-  <table>
+ <table>
         <caption>My Daily Schedule</caption>
         <thead>
             <tr>
